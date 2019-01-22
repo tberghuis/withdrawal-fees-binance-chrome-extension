@@ -1,0 +1,13 @@
+{
+  "name": "Withdrawal Fees for Binance",
+  "description": "Show withdrawal fee (USDT) on web page https://www.binance.com/en/fee/schedule",
+  "version": null,
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://www.binance.com/en/fee/schedule"],
+      "js": ["content_script.js"]
+    }
+  ],
+  "permissions": ["webRequest", "https://api.binance.com/"]
+}
