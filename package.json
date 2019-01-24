@@ -1,6 +1,6 @@
 {
   "name": "withdrawal-fees-binance-chrome-extension",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Vue.js web extension",
   "author": "Tom Berghuis <thomas.berghuis@gmail.com>",
   "scripts": {
