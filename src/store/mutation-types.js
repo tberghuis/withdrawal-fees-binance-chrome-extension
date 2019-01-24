@@ -1,1 +1,2 @@
 export const UPDATE_TABLE_DATA = 'UPDATE_TABLE_DATA';
+export const ADD_TABLE_DATA_ROW = 'ADD_TABLE_DATA_ROW';
